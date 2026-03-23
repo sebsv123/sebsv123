@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sebastián, Data Scientist & AI Engineer in the making — from Venezuela 🇻🇪, based in Spain 🇪🇸</h2>
+<h2 align="left">Hi 👋! I'm Sebastián — Data Scientist & AI Engineer in the making, turning data into decisions and models into impact.</h2>
 
 ###
 
@@ -51,4 +51,3 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/sebsv123/sebsv123/output/snake.svg" alt="Snake animation" />
-
